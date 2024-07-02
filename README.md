@@ -1,6 +1,6 @@
-# Replication Materials for "‘If Foreign, then Cleaner’: Individual Corruption Perceptions and Support for Free Trade in Developing Nations"
+# Replication Materials for "[‘If Foreign, then Cleaner’: Individual Corruption Perceptions and Support for Free Trade in Developing Nations](https://academic.oup.com/isq/article/68/3/sqae079/7697785)"
 
-Dihan Shi, Guillermo Rosas | Washington University in St. Louis
+[Dihan Shi](https://dihan.org), Guillermo Rosas | Washington University in St. Louis
 
 This archive contains all code and data necessary to reproduce the results in "‘If Foreign, then Cleaner’: Individual Corruption Perceptions and Support for Free Trade in Developing Nations".
 
