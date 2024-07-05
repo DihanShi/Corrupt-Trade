@@ -4,6 +4,8 @@
 
 This archive contains all code and data necessary to reproduce the results in "‘If Foreign, then Cleaner’: Individual Corruption Perceptions and Support for Free Trade in Developing Nations".
 
+Access the article [here](https://dihan.org/publications/).
+
 ## Software Environment
 
 The code was last run by the authors using the following software environments:
